@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'flight-board-backend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77531CFCB1DB46269F2853BB5A941B8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6BE3BCE359A942AC8048D4648C2251F1 }}
           package: '*.jar'
